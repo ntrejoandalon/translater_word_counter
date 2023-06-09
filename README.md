@@ -1,0 +1,1 @@
+# translater_word_counter
